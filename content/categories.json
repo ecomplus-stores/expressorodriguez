@@ -5,7 +5,9 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Bate e volta ",
+      "description": "Viagem de um único dia "
     },
     {
       "type": "document-banner",
