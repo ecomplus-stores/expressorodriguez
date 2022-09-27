@@ -9,10 +9,10 @@
   },
   "exchange": {
     "show": true,
-    "text": "Pagamento facilitado em até 2x via pix "
+    "text": "Pagamento facilitado via pix em até 3x "
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "Diferentes promoções ao longo do ano"
   }
 }
