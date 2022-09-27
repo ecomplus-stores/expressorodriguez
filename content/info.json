@@ -1,15 +1,15 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Produto 100% on-line (voucher enviado via e-mail)"
   },
   "installments": {
     "show": true,
-    "text": "Parcele até 12x "
+    "text": "Parcele até 12x no credito "
   },
   "exchange": {
     "show": true,
-    "text": "VIVA SEM DESCULPAS, E VIAJE SEM ARREPENDIMENTO. "
+    "text": "Pagamento facilitado em até 2x via pix "
   },
   "promo": {
     "show": true,
