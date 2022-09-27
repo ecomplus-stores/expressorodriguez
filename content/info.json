@@ -1,7 +1,7 @@
 {
   "shipping": {
     "show": true,
-    "text": "Produto 100% on-line (voucher enviado via e-mail)"
+    "text": "Produto 100% on-line (enviado via e-mail)"
   },
   "installments": {
     "show": true,
