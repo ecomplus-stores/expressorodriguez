@@ -1,7 +1,7 @@
 {
   "domain": "expressorodriguez.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "pulse",
     "custom": "_"
@@ -17,9 +17,9 @@
   "favicon": "/img/uploads/marcadagua1.png",
   "icons_font": "font-awesome",
   "country_code": "BR",
-  "secondary_color": "#39463e",
+  "secondary_color": "#000001",
   "icon": "/img/uploads/marcadagua1.png",
   "store_id": 30671,
   "description": "Expresso Rodriguez",
-  "large_icon": "/img/uploads/marcadagua1.png"
+  "large_icon": "/img/uploads/marcadagua2.png"
 }
