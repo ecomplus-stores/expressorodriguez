@@ -5,7 +5,7 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "img": "/img/uploads/marcadagua1.png",
@@ -18,9 +18,9 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "img": "/img/uploads/img-8510.jpg",
+          "alt": "",
+          "mobile_img": "/img/uploads/marcadagua2.png"
         }
       ]
     },
