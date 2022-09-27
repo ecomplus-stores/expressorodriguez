@@ -8,19 +8,10 @@
       "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/marcadagua1.png",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/arte.png"
-        },
-        {
           "start": "",
           "end": "",
-          "img": "/img/uploads/img-8510.jpg",
-          "alt": "",
-          "mobile_img": "/img/uploads/marcadagua2.png"
+          "img": "/img/uploads/marcadagua2.png",
+          "mobile_img": "/img/uploads/img-8510.jpg"
         }
       ]
     },
