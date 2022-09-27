@@ -3,23 +3,23 @@
   "currency_symbol": "R$",
   "primary_color": "#222831",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "pulse",
     "custom": "_"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#000000",
   "logo": "/img/uploads/fachada-expresso.png",
-  "name": "expressorodriguez",
-  "short_name": "expressorodriguez",
+  "name": "Expresso Rodriguez",
+  "short_name": "Expresso Rodriguez",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
-  "icons_font": "_",
+  "favicon": "/img/uploads/marcadagua1.png",
+  "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/marcadagua1.png",
   "store_id": 30671,
-  "description": "expressorodriguez",
-  "large_icon": "/img/large-icon.png"
+  "description": "Expresso Rodriguez",
+  "large_icon": "/img/uploads/marcadagua1.png"
 }
