@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.93baa2e9c79e7b97c83167a76b4150b4.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.c525866e458e674c513df35ad5f2b0f3.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.4e5476e13296e4da4476e9381941c117.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.757d07ff2e4e234fc994e7598b8cc006.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.aff87662ec6b3526350270e5bf27d692.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Expresso Rodriguez",
+  "short_name": "Expresso Rodriguez",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Excursões privadas, em grupos; Passagem aéreas, nacionais e internacionais. \nPacotes aéreos nacionais e internacionais. \nLocacão de ônibus e vans executivas. \nTransfer recptivo, translados e City tours. \nCADASTUR: 28.2642530001-91",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
