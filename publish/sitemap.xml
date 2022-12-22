@@ -128,6 +128,12 @@
     </url>
   
     <url>
+      <loc>https://expressorodriguez.netlify.app/duplo---arraial-do-cabo-03a05fev2023</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://expressorodriguez.netlify.app/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
